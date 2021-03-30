@@ -7,7 +7,7 @@ To protect the c# bytecodes I write a `native wrapping tool` which wrap c++ nati
 I also developed the test data `analyzing sw`(c# & phthon) and data managing `web application`(asp.net).
 
 - [x] I got a __Ph.D__ in physics ([quantum optics](https://ko.wikipedia.org/wiki/%EC%96%91%EC%9E%90%EA%B4%91%ED%95%99) experiment) in 2012.
-- [x] These days I’m interested in `machine learning` and `block chain` technologies.
+- [x] These days I’m interested in 2 years old baby and in `machine learning`.
 
 #### Getting in touch:
 [:e-mail:](mailto:samyong.bae@gmail.com) *samyong.bae@gmail.com* [:phone: *010-9066-3569*](tel:010-9066-3569)

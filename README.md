@@ -1,6 +1,7 @@
 ### 👋 Hi, I’m @free302.
 - [x] I worked as a full-time R&D engineer in the corporate lab.
 The company manufactures `small optics device` used in optical communication systems.
+
 I developed the `test & measurement system` which tests the optical characteristics of the manufactured devices.
 The system uses tcp server to share an expensive laser equipment among many clients connected via electric line & tcp/ip.
 To protect the c# bytecodes I write a `native wrapping tool` which wrap c++ native binary around any `c# exe & dll`.

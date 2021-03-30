@@ -1,4 +1,4 @@
-👋 Hi, I’m @free302.
+### 👋 Hi, I’m @free302.
 - [x] I worked as a full-time R&D engineer in the corporate lab.
 The company manufactures `small optics device` used in optical communication systems.
 I developed the `test & measurement system` which tests the optical characteristics of the manufactured devices.
@@ -7,17 +7,13 @@ I also developed the test data `analyzing sw`, data managing `web application` a
 - [x] I got a __Ph.D__ in physics ([quantum optics](https://ko.wikipedia.org/wiki/%EC%96%91%EC%9E%90%EA%B4%91%ED%95%99) experiment) in 2012.
 - [x] These days I’m interested in `machine learning` and `block chain` technologies.
 
-Getting in touch:
-
+#### Getting in touch:
 [:e-mail:](mailto:samyong.bae@gmail.com) *samyong.bae@gmail.com* [:phone: *010-9066-3569*](tel:010-9066-3569)
 
-### My Repos
-#### Test & Measurement System
-#### Web App Using Dynamic DB Models
-#### Utility Projects
-
-
-
+### My Repositories
+#### Test & Measurement System Using TCP Server/Client (C#)
+#### Web App Using Dynamic DB Models (C# & ASP.NET)
+#### Utility Projects  (C# & C++)
 
 
 <!---

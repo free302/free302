@@ -2,10 +2,9 @@
 - [x] I worked as a full-time R&D engineer in the corporate lab.
 The company manufactures `small optics device` used in optical communication systems.
 I developed the `test & measurement system` which tests the optical characteristics of the manufactured devices.
-The system uses tcp server/client to share an expensive laser equipment.
-To protect the c# bytecodes I write a `native wrapping tool` which wrap c++ native binary.
-I also developed the test data `analyzing sw` and data managing `web application`.
-
+The system uses tcp server to share an expensive laser equipment among many clients connected via electric line & tcp/ip.
+To protect the c# bytecodes I write a `native wrapping tool` which wrap c++ native binary around any `c# exe & dll`.
+I also developed the test data `analyzing sw`(c# & phthon) and data managing `web application`(asp.net).
 
 - [x] I got a __Ph.D__ in physics ([quantum optics](https://ko.wikipedia.org/wiki/%EC%96%91%EC%9E%90%EA%B4%91%ED%95%99) experiment) in 2012.
 - [x] These days I’m interested in `machine learning` and `block chain` technologies.

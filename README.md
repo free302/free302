@@ -6,7 +6,7 @@ I also developed the test data `analyzing sw`, data managing `web application` a
 
 - [x] I got a __Ph.D__ in physics ([quantum optics](https://ko.wikipedia.org/wiki/%EC%96%91%EC%9E%90%EA%B4%91%ED%95%99) experiment) in 2012.
 - [x] These days I’m interested in `machine learning` and `block chain` technologies.
-- [ ] Getting in touch: [:e-mail:](mailto:samyong.bae@gmail.com)
+- [ ] Getting in touch: [:e-mail:](mailto:samyong.bae@gmail.com) *samyong.bae@gmail.com* [:phone: *010-9066-3569*](tel:010-9066-3569)
 
 <!---
 free302/free302 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

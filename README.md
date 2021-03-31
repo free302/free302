@@ -19,13 +19,10 @@
 또한 `license tool`은 제어PC 고유의 정보를 인식하여 `측정SW`의 무단복사 사용을 방지한다.
 
 - [ ] 측정된 투과스펙트럼을 분석하기위한 `wdm analyzing library`를 개발하여 데스크탑 앱과 웹서버에 사용하였다(c# & phthon).
-`wdm analyzing library`는 분석알고리즘 선택이 가능하도록 유연하게 설계하였고 수만개의 파일을 처리하는데 병령처리 기법을 사용한다.
+라이브러는 코드수정없이 여러 분석알고리즘 선택이 가능하도록 유연하게 설계하였고 수만개의 파일을 처리하는데 병령처리 기법을 사용한다.
 
 - [ ] `데이터관리 Web서버`는 `PostgreSQL` DB서버와 asp.net 기반이며 백엔드와 프린터엔드 모두에 C#을 사용가능한 `Blazor` 기술을 활용하고,
-추후 추가되는 데이터모델을 기존 코드 수정없이 런타임에 생성할 수 있도록 `Dynamic DB Context` 기법을 이용한다.
-
-- [x] I got a __Ph.D__ in physics ([quantum optics](https://ko.wikipedia.org/wiki/%EC%96%91%EC%9E%90%EA%B4%91%ED%95%99) experiment) in 2012.
-- [x] These days I’m interested in 2 years old baby and in `machine learning`.
+추후 추가되는 데이터모델을 기존 코드 수정없이 런타임에 생성할 수 있도록 `OpCode Emission` 기법을 이용한다.
 
 #### Getting in touch:
 [:e-mail:](mailto:samyong.bae@gmail.com) *samyong.bae@gmail.com* [:phone: *010-9066-3569*](tel:010-9066-3569)

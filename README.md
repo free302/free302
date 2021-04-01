@@ -25,15 +25,19 @@
 추후 추가되는 데이터모델을 기존 코드 수정없이 런타임에 생성할 수 있도록 `OpCode Emission`기법으로 `Dynamic DB Context`를 개발하였다.
 
 #### Getting in touch:
- [:e-mail:](mailto:samyong.bae@gmail.com) *samyong.bae@gmail.com* [:phone: *010-9066-3569*](tel:010-9066-3569)
+- [x] [:e-mail:](mailto:samyong.bae@gmail.com) *samyong.bae@gmail.com* [:phone: *010-9066-3569*](tel:010-9066-3569)
 
 ## :card_file_box: My Repositories
-관리를 위해 되도록 UI가 있는 앱과 라이브러리를 분리하였다.
+관리를 위해 되도록 앱(UI)과 라이브러리를 분리하였다.
 
 #### == Library Projects (C#) ==
--  [x] ㅣㅣㅣ
-
-
+- [x] TLS 공유를 위한 `TcpServer`
+  - fjakldf
+- [x] 측정데이터 분석을 위한 `UniverseDataAnalysis`
+- [x] 각종 유틸리티 클래스 모음 `UniverseUtility`
+ - Reflection을 이용한 설정파일관리, 설정파일내 문자열 조작&Casting 등 문자열 확장
+ - 다중키 Dictionary/해쉬코드 등 자료구조, 압축, native/.net 로더 등
+- [x] VS 프로젝트 버전을 빌드시각으로 설정하는 `BuildVersion`
 
 #### == Desktop Applications (C#) ==
 - [x] 광특성 측정시스템의 `측정제어SW`

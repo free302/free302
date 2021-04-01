@@ -5,10 +5,10 @@
 회사에서 정부R&D과제 기획/관리, `광특성 측정시스템` 개발, `측정데이터 분석SW` 및 `데이터관리 Web서버` 개발 등을 수행하였다.
 
 - [x] `광특성 측정시스템`은 생산되 WDM 칩의 광학적 특성(투과스펙트럼)을 측정하여 파일로 저장한다.
-시스템은 칩을 광원 및 계측기에 연결된 광섬유와 정렬하는 `Mechanical Alignment Part`, 광투과율을 측정하는 `Optical Measurement Part`, 이들을 모두 제어하는 `제어PC`로 구성된다.
-`MA Part`는 50nm 정밀도의 Motion 제어부와 기타 센서로 구성되며,
-`OM Part`는 빛의 세기를 읽는 광파워미터와 가변파장의 레이저 광원(TLS)로 구성된다.
-`제어PC`와 각 장치들은 GPIB/DAQ/USB 등으로 연결되며, `측정제어SW`는 `C#`으로 개발하였다.
+시스템은 `Mechanical Alignment Part`, `Optical Measurement Part`, `제어PC`로 구성된다.
+`MA Part`는 50nm 정밀도의 Motion 제어부와 기타 센서로 구성되며, 칩을 광원 및 계측기에 연결된 광섬유와 정렬한다.
+`OM Part`는 빛의 세기를 읽는 광파워미터와 가변파장의 레이저 광원(TLS)로 구성되며, 칩이정렬된 상태에서 광투과율을 측정한다.
+`제어PC`는GPIB/DAQ/USB 등으로 각 장치들을 연결/제어하며 `측정제어SW`는 `C#`으로 개발하였다.
 
 - [x] 고가인 TLS를 여러 시스템에 공유하기 위해 TCP서버 `TLS Server`를 개발하였다.
 서버와 클라이언트의 장치들은 전기적/광학적으로 연결되며 제어PC는 TCP 소켓으로 연결된다.
@@ -28,17 +28,18 @@
  [:e-mail:](mailto:samyong.bae@gmail.com) *samyong.bae@gmail.com* [:phone: *010-9066-3569*](tel:010-9066-3569)
 
 ### :card_file_box: My Repositories
-되도록 UI가 있는 앱과 라이브러리를 분리하였다.
+관리를 위해 되도록 UI가 있는 앱과 라이브러리를 분리하였다.
+
+#### == Library Projects (C#) ==
+##### 
+
+
 
 #### == Desktop Applications (C#) ==
 ##### `광특성 측정시스템`의 측정제어SW
 ##### `광특성 측정시스템`의 TLS Server
 ##### 측정데이터 분석SW
 ##### WDM모듈의 광특성 측정용 앱
-
-#### == Library Projects (C#) ==
-##### 
-
 
 #### Test & Measurement System Using TCP Server/Client (C#)
 #### Web App Using Dynamic DB Models (C# & ASP.NET)

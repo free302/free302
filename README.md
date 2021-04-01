@@ -54,17 +54,18 @@
 - [x] 디컴파일 방지 `native wrapping tool`
 - [x] 복사 방지 `license tool`
 
-#### 광특성 측정시스템의 `측정제어SW`
+#### 광특성 측정시스템의 `측정제어SW` 및 웹서버
 - [x] 광특성 측정시스템의 `TLS Server`
 - [x] 측정시스템의 `데이터분석SW`
-- [x] WDM모듈 측정용 앱
+- [x] WDM모듈 측정용 앱 `Pigtail`
+- [x] 데이터 분석/관리 Web Application `WdmServer` (ASP.NET Core)
 
 #### 기타 잡다한 것들
 - [x] NavyField 게임 수병뽑기 자동화 툴 (C#)
 - [x] 21대 총선 준연동제 국회의석수 계산기 (C#)
 - [x] 심전도 데이터에서 실시간 심박수 계산 및 시각화 앱 (C#)
 - [x] Android 용 연락처 관리, SMS 발송 앱 (Java)
-- [ ] *마우스 매크로를 위한 가상 마우스 드라이버(C++)*
+- [ ] *마우스 매크로를 위한 가상 마우스 드라이버 (C++)*
 
 <!---
 free302/free302 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

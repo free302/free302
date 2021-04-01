@@ -39,6 +39,8 @@
  - Reflection을 이용한 설정파일관리, 설정파일내 문자열 조작&Casting 등 문자열 확장
  - 다중키 Dictionary/해쉬코드 등 자료구조, 압축, native/.net 로더 등
 - [x] VS 프로젝트 버전을 빌드시각으로 설정하는 `BuildVersion`
+- [x] Web application을 위한 `WebData`
+ - Generic model interface, dynamic db context interface & implimentation
 
 #### == Desktop Applications (C#) ==
 - [x] 광특성 측정시스템의 `측정제어SW`

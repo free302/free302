@@ -24,6 +24,12 @@
 - [x] `데이터관리 Web서버`는 `PostgreSQL` DB서버와 asp.net 기반이며 백엔드와 프린터엔드 모두에 C#을 사용가능한 `Blazor` 기술을 활용하고,
 추후 추가되는 데이터모델을 기존 코드 수정없이 런타임에 생성할 수 있도록 `OpCode Emission`기법으로 `Dynamic DB Context`를 개발하였다.
 
+- [x] 그 외 광전변환장치(optical powermeter), 편광제어장치(polarization controller) 등 HW장비와 firmware를 개발하였다.
+
+#### 다루는 언어와 툴:
+- [x] 사용언어: C#, C/C++, Python, Java, Mathematica, Tex, Javascript
+- [x] TOOLs: Mathematica, Visual Studio, Notepad++, Git/Github, 3D Inventor, Altium Designer(전자회로설계), C2V Olympios(광도파로설계), Avr Studio
+
 #### Getting in touch:
 - [x] [:e-mail:](mailto:samyong.bae@gmail.com) *samyong.bae@gmail.com* [:phone: *010-9066-3569*](tel:010-9066-3569)
 
@@ -47,11 +53,16 @@
 - [x] 디컴파일 방지 `native wrapping tool`
 - [x] 복사 방지 `license tool`
 
-#### Desktop Applications (C#)
-- [x] 광특성 측정시스템의 `측정제어SW`
+#### 광특성 측정시스템의 `측정제어SW`
 - [x] 광특성 측정시스템의 `TLS Server`
 - [x] 측정시스템의 `데이터분석SW`
 - [x] WDM모듈 측정용 앱
+
+#### 기타 잡다한 것들
+- [x] NavyField 게임 수병뽑기 자동화 툴 (C#)
+- [x] 21대 총선 준연동제 국회의석수 계산기 (C#)
+- [x] 심박수 측정 및 시각화 앱 (C#)
+- [x] Android 용 연락처 관리, SMS 발송 앱 (Java)
 
 <!---
 free302/free302 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

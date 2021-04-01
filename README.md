@@ -63,6 +63,7 @@
 - [x] 21대 총선 준연동제 국회의석수 계산기 (C#)
 - [x] 심전도 데이터에서 실시간 심박수 계산 및 시각화 앱 (C#)
 - [x] Android 용 연락처 관리, SMS 발송 앱 (Java)
+- [ ] *마우스 매크로를 위한 가상 마우스 드라이버(C++)*
 
 <!---
 free302/free302 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

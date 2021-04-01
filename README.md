@@ -10,12 +10,12 @@
 `OM Part`는 빛의 세기를 읽는 광파워미터와 가변파장의 레이저 광원(TLS)로 구성된다.
 `제어PC`와 각 장치들은 GPIB/DAQ/USB 등으로 연결되며, `측정제어SW`는 `C#`으로 개발하였다.
 
-- [x] 고가인 TLS를 여러 시스템에 공유하기 위해 TCP 서버를 개발하였다.
+- [x] 고가인 TLS를 여러 시스템에 공유하기 위해 TCP서버 `TLS Server`를 개발하였다.
 서버와 클라이언트의 장치들은 전기적/광학적으로 연결되며 제어PC는 TCP 소켓으로 연결된다.
 1개의 TLS를 2개의 클라이언트 시스템이 사용시 약간의 성능저하(측정시간증가)가 있지만, 이후 6개까지 클라이언트를 늘려도 추가 성능저하는 없었다.
 
 - [x] 하청업체에 제공하는 `측정SW`에 대하여 2가징 툴을 개발하여 부적절한 사용을 방지하였다.
-`native wrapping tool`은 `C++`로 작성된 native binary로 모든 `C# exe & dll`를 래핑하여 bytecode decompile을 방지한다.
+`native wrapping tool`은 `C++`로 작성된 native binary로 모든 `C# exe & dll`를 래핑하여 IL decompile을 방지한다.
 또한 `license tool`은 제어PC 고유의 정보를 인식하여 `측정SW`의 무단복사 사용을 방지한다.
 
 - [ ] 측정된 투과스펙트럼을 분석하기위한 `wdm analyzing library`를 개발하여 데스크탑 앱과 웹서버에 사용하였다(c# & phthon).
@@ -28,6 +28,17 @@
  [:e-mail:](mailto:samyong.bae@gmail.com) *samyong.bae@gmail.com* [:phone: *010-9066-3569*](tel:010-9066-3569)
 
 ### My Repositories
+
+#### Desktop Applications (C#)
+##### `광특성 측정시스템`의 측정제어SW
+##### `광특성 측정시스템`의 TLS Server
+##### 측정데이터 분석SW
+##### WDM모듈의 광특성 측정용 앱
+
+#### Library Projects (C#)
+##### 
+
+
 #### Test & Measurement System Using TCP Server/Client (C#)
 #### Web App Using Dynamic DB Models (C# & ASP.NET)
 #### Utility Projects  (C# & C++)

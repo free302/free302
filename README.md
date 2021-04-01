@@ -31,15 +31,15 @@
 관리를 위해 되도록 UI가 있는 앱과 라이브러리를 분리하였다.
 
 #### == Library Projects (C#) ==
-##### 
+- [x] 
 
 
 
 #### == Desktop Applications (C#) ==
-##### `광특성 측정시스템`의 측정제어SW
-##### `광특성 측정시스템`의 TLS Server
-##### 측정데이터 분석SW
-##### WDM모듈의 광특성 측정용 앱
+- [x] 광특성 측정시스템의 `측정제어SW`
+- [x] 광특성 측정시스템의 `TLS Server`
+- [x] 측정시스템의 `데이터분석SW`
+- [x] WDM모듈 측정용 앱
 
 #### Test & Measurement System Using TCP Server/Client (C#)
 #### Web App Using Dynamic DB Models (C# & ASP.NET)

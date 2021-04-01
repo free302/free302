@@ -42,6 +42,10 @@
 - [x] Web application을 위한 `WebData`
  - Generic model interface, dynamic db context interface & implimentation
 
+#### == Protection Tools (C#/C++) ==
+- [x] 디컴파일 방지 `native wrapping tool`
+- [x] 복사 방지 `license tool`
+
 #### == Desktop Applications (C#) ==
 - [x] 광특성 측정시스템의 `측정제어SW`
 - [x] 광특성 측정시스템의 `TLS Server`

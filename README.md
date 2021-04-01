@@ -32,8 +32,9 @@
 
 #### == Library Projects (C#) ==
 - [x] TLS 공유를 위한 `TcpServer`
-  - fjakldf
+ - TCP server/client library, TLS 통신 데이터 분석
 - [x] 측정데이터 분석을 위한 `UniverseDataAnalysis`
+ - 공통 interface/자료형, 데이터 (투과스펙트럼) 분석 구현
 - [x] 각종 유틸리티 클래스 모음 `UniverseUtility`
  - Reflection을 이용한 설정파일관리, 설정파일내 문자열 조작&Casting 등 문자열 확장
  - 다중키 Dictionary/해쉬코드 등 자료구조, 압축, native/.net 로더 등

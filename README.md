@@ -55,10 +55,10 @@
 - [x] 복사 방지 `license tool`
 
 #### 광특성 측정시스템의 `측정제어SW` 및 웹서버
+- [x] 데이터 분석/관리 Web Application [`WdmServer`](https://github.com/drbae/WdmServer) (ASP.NET Core)
 - [x] 광특성 측정시스템의 `TLS Server`
 - [x] 측정시스템의 `데이터분석SW`
 - [x] WDM모듈 측정용 앱 `Pigtail`
-- [x] 데이터 분석/관리 Web Application [`WdmServer`](https://github.com/drbae/WdmServer) (ASP.NET Core)
 
 #### 기타 잡다한 것들
 - [x] NavyField 게임 수병뽑기 자동화 툴 (C#)

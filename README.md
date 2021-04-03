@@ -61,8 +61,8 @@
 - [x] WDM모듈 측정용 앱 `Pigtail`
 
 #### 기타 잡다한 것들
-- [x] NavyField 게임 수병뽑기 자동화 툴 (C#)
-- [x] 21대 총선 준연동제 국회의석수 계산기 (C#)
+- [x] NavyField 게임 수병뽑기 자동화 툴 [`NFTool`](https://github.com/free302/NFTool)
+- [x] 21대 총선 준연동제 국회의석수 계산기 [`Congress`](https://github.com/free302/Congress)
 - [x] NTFS 파일의 `extra stream` read/write lib (C#)
 - [x] 심전도 데이터에서 실시간 심박수 계산 및 시각화 앱 (C#)
 - [x] Android 용 연락처 관리, SMS 발송 앱 (Java)

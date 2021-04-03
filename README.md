@@ -47,7 +47,7 @@
  - 다중키 Dictionary/해쉬코드 등 자료구조, 압축, native/.net 로더 등
 - [x] VS 프로젝트 버전을 자동으로 설정해주는 플러그인 `BuildVersion`
  - major.minor는 수동조작, build.revision을 utc 2000-1-1T00:00:00 기준으로 빌드시각의 일수(days)와 2초단위로 설정
-- [x] Web application을 위한 `WebData`
+- [x] Web application을 위한 [`WebData`](https://github.com/drbae/WebData)
  - Generic model interface, dynamic db context interface & implimentation
 
 #### Protection Tools (C#/C++)
@@ -58,7 +58,7 @@
 - [x] 광특성 측정시스템의 `TLS Server`
 - [x] 측정시스템의 `데이터분석SW`
 - [x] WDM모듈 측정용 앱 `Pigtail`
-- [x] 데이터 분석/관리 Web Application `WdmServer` (ASP.NET Core)
+- [x] 데이터 분석/관리 Web Application [`WdmServer`](https://github.com/drbae/WdmServer) (ASP.NET Core)
 
 #### 기타 잡다한 것들
 - [x] NavyField 게임 수병뽑기 자동화 툴 (C#)

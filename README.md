@@ -51,7 +51,7 @@
  - Generic model interface, dynamic db context interface & implimentation
 
 #### Protection Tools (C#/C++)
-- [x] 디컴파일 방지 `native wrapping tool`
+- [x] 디컴파일 방지 native wrapping tool  [`CppWrap`](https://github.com/free302/CppWrap) (C++)
 - [x] 복사 방지 툴 [`UniverseLicensel`](https://github.com/free302/UniverseLicense)
 
 #### 광특성 측정시스템의 `측정제어SW` 및 웹서버

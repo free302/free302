@@ -38,7 +38,7 @@
 관리를 위해 되도록 앱(UI)과 라이브러리를 분리하였다.
 
 #### Library Projects (C#)
-- [x] TLS 공유를 위한 `TcpServer`
+- [x] TLS 공유를 위한 [`UniverseTcp`](https://github.com/free302/UniverseTcp)
  - TCP server/client library, TLS 제어 및 통신데이터 분석
 - [x] 측정데이터 분석을 위한 `WdmDataAnalysis`
  - 공통 interface/자료형, 데이터 (투과스펙트럼) 분석 구현

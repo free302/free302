@@ -54,7 +54,7 @@
 - [x] 디컴파일 방지 native wrapping tool  [`CppWrap`](https://github.com/free302/CppWrap) (C++)
 - [x] 복사 방지 툴 [`UniverseLicensel`](https://github.com/free302/UniverseLicense)
 
-#### 광특성 측정시스템의 `측정제어SW` 및 웹서버
+#### 광특성 측정시스템 운용 관련 앱 및 웹서버
 - [x] 데이터 분석/관리 Web Application [`WdmServer`](https://github.com/drbae/WdmServer) (ASP.NET Core)
 - [x] 광특성 측정시스템의 서버 앱 [`TlsServer`](https://github.com/drbae/TlsServer)
 - [x] 광특성 측정시스템의 클라이언트 앱 `ServerApp`

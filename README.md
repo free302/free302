@@ -40,7 +40,7 @@
 #### Library Projects (C#)
 - [x] TLS 공유를 위한 [`UniverseTcp`](https://github.com/free302/UniverseTcp)
  - TCP server/client library, TLS 제어 및 통신데이터 분석
-- [x] 측정데이터 분석을 위한 `WdmDataAnalysis`
+- [x] 측정데이터 분석을 위한 [`UniverseWdm`](https://github.com/free302/UniverseWdm)
  - 공통 interface/자료형, 데이터 (투과스펙트럼) 분석 구현
 - [x] Web application을 위한 [`WebData`](https://github.com/free302/WebData)
  - Generic model interface, dynamic db context interface & implimentation

@@ -56,8 +56,9 @@
 
 #### 광특성 측정시스템의 `측정제어SW` 및 웹서버
 - [x] 데이터 분석/관리 Web Application [`WdmServer`](https://github.com/drbae/WdmServer) (ASP.NET Core)
-- [x] 광특성 측정시스템의 [`TLS Server`](https://github.com/drbae/TlsServer)
-- [x] 측정시스템의 `데이터분석SW`
+- [x] 광특성 측정시스템의 서버 앱 [`TlsServer`](https://github.com/drbae/TlsServer)
+- [x] 광특성 측정시스템의 클라이언트 앱 `ServerApp`
+- [x] 광특성 측정시스템의 데이터분석 앱 [`WdmAnalyzer`](https://github.com/drbae/WdmAnalyzer)
 - [x] WDM모듈 측정용 앱 `Pigtail`
 - [x] `광특성 측정시스템`의 사양서 [`SpecSheet`](https://github.com/free302/SpecSheet) (Tex)
 

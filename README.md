@@ -59,7 +59,7 @@
 - [x] 광특성 측정시스템의 `TLS Server`
 - [x] 측정시스템의 `데이터분석SW`
 - [x] WDM모듈 측정용 앱 `Pigtail`
-- [x] `광특성 측정시스템`의 사양서 [`SpecSheet`[(https://github.com/free302/SpecSheet) (Tex)
+- [x] `광특성 측정시스템`의 사양서 [`SpecSheet`](https://github.com/free302/SpecSheet) (Tex)
 
 #### 기타 잡다한 것들
 - [x] NavyField 게임 수병뽑기 자동화 툴 [`NFTool`](https://github.com/free302/NFTool)

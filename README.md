@@ -28,7 +28,7 @@
 - [x] 그 외 광전변환장치(optical powermeter), 편광제어장치(polarization controller) 등 HW장비와 firmware를 개발하였다.
 
 #### 다루는 언어와 툴:
-- [x] 사용언어: C#, C/C++, Python, Java, Mathematica, Tex, Javascript
+- [x] 사용언어: C#, C/C++, Python, Java, Mathematica, Javascript, <a href="https://ko.wikipedia.org/wiki/TeX" target='_blank'>TeX</a>
 - [x] TOOLs: Mathematica, Visual Studio, Notepad++, Git/Github, 3D Inventor, Altium Designer(전자회로설계), C2V Olympios(광도파로설계), Avr Studio
 
 #### Getting in touch:

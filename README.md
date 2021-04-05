@@ -22,13 +22,13 @@
 라이브러는 코드수정 없이 여러 분석알고리즘에 대응하도록 유연하게 설계하였고 수만개의 파일을 처리하는데 병령처리 기법을 사용한다.
 
 - [x] `데이터관리 Web서버`는 초기버전은 python과 Django기반으로 개발하였으며, 이후 `PostgreSQL` DB서버와 asp.net으로 재개발하였다.
-백엔드와 프린터엔드 모두에 C#이 사용가능한 `Blazor` 기술을 활용하고,
+백엔드와 프린터엔드 모두에 C#이 사용가능한 [`Blazor`](https://docs.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-5.0) 기술을 활용하고,
 추후 추가되는 데이터모델을 기존코드 수정없이 런타임에 생성할 수 있도록 `OpCode Emission`기법으로 `Dynamic DB Context`를 개발하였다.
 
 - [x] 그 외 광전변환장치(optical powermeter), 편광제어장치(polarization controller) 등 HW장비와 firmware를 개발하였다.
 
 #### 다루는 언어와 툴:
-- [x] 사용언어: C#, C/C++, Python, Java, Mathematica, Javascript, <a href="https://ko.wikipedia.org/wiki/TeX" target='_blank'>TeX</a>
+- [x] 사용언어: C#, C/C++, Python, Java, Mathematica, Javascript, ['TeX']("https://ko.wikipedia.org/wiki/TeX")
 - [x] TOOLs: Mathematica, Visual Studio, Notepad++, Git/Github, 3D Inventor, Altium Designer(전자회로설계), C2V Olympios(광도파로설계), Avr Studio
 
 #### Getting in touch:

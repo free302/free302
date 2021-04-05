@@ -42,13 +42,13 @@
  - TCP server/client library, TLS 제어 및 통신데이터 분석
 - [x] 측정데이터 분석을 위한 `WdmDataAnalysis`
  - 공통 interface/자료형, 데이터 (투과스펙트럼) 분석 구현
+- [x] Web application을 위한 [`WebData`](https://github.com/free302/WebData)
+ - Generic model interface, dynamic db context interface & implimentation
 - [x] 각종 유틸리티 클래스 모음 [`UniverseUtility`](https://github.com/free302/UniverseUtility)
  - Reflection을 이용한 설정파일관리, 설정파일내 문자열 조작&Casting 등 문자열 확장
  - 다중키 Dictionary/해쉬코드 등 자료구조, 압축, native/.net 로더 등
 - [x] VS 프로젝트 버전을 자동으로 설정해주는 플러그인 [`BuildVersion`](https://github.com/free302/BuildVersion)
  - major.minor는 수동조작, build.revision을 utc 2000-1-1T00:00:00 기준으로 빌드시각의 일수(days)와 2초단위로 설정
-- [x] Web application을 위한 [`WebData`](https://github.com/free302/WebData)
- - Generic model interface, dynamic db context interface & implimentation
 
 #### Protection Tools (C#/C++)
 - [x] 디컴파일 방지 native wrapping tool  [`CppWrap`](https://github.com/free302/CppWrap) (C++)

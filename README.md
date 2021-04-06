@@ -67,7 +67,7 @@
 - [x] 21대 총선 준연동제 국회의석수 계산기 [`Congress`](https://github.com/free302/Congress)
 - [x] NTFS 파일의 alternate stream lib [`NtfsAltStream`](https://github.com/free302/NtfsAltStream)
 - [x] 심전도 데이터에서 실시간 심박수 계산 및 시각화 앱 [`EcgDev`](https://github.com/free302/EcgDev)
-- [x] Android 용 연락처 관리, SMS 발송 앱 (Java)
+- [ ] *Android 용 연락처 관리, SMS 발송 앱 (Java)*
 - [ ] *마우스 매크로를 위한 가상 마우스 드라이버 (C++)*
 
 <!---

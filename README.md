@@ -32,7 +32,7 @@
 - [x] TOOLs: Mathematica, Visual Studio, Notepad++, Git/Github, 3D Inventor, Altium Designer(전자회로설계), C2V Olympios(광도파로설계), Avr Studio
 
 #### Getting in touch:
-- [x] [:e-mail:](mailto:amadeus.bae@gmail.com) *amadeus.bae@gmail.com* [:phone: *010-9066-3569*](tel:010-9066-3569)
+- [x] [:e-mail:](mailto:amadeus.bae@gmail.com) *amadeus.bae@gmail.com* [:phone: *010-9066-3569*](tel:010-9066-3569) [Slack](https://universesoft.slack.com/)
 
 ## :card_file_box: My Repositories
 관리를 위해 되도록 앱(UI)과 라이브러리를 분리하였다.

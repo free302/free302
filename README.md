@@ -38,7 +38,7 @@
 관리를 위해 되도록 앱(UI)과 라이브러리를 분리하였다.
 
 #### 최근 관심분야/진행중 프로젝트 (C#)
-- [x] Spectrometer Analysis by Machine Learning [`Spectrometer`](https://github.com/free302-ML/spectrometer)
+- [x] Spectrometer Analysis by Machine Learning [`ML`](https://github.com/free302/FiraAiSpecML) [`UI`](https://github.com/free302/FiraAiSpec)
 - [x] Coin Trading System [`UpbitTrader`](https://github.com/free302-BC/UpbitTrader)
  - Crypto-Currency 자동거래 시스템, 알고리즘 파리미터 컨트롤
 

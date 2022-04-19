@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @free302.
-** 이 문서의 원본 주소는 [여기(GitHub)](https://github.com/free302)입니다. **
+** 이 문서의 원본 주소는 [여기(https://github.com/free302)](https://github.com/free302)입니다. **
 
 - [x] 2008~2020까지 광통신 소자 제조 기업에서 연구원으로 근무하였다.
 2012년 물리학과 [`QuantumOptics`](https://ko.wikipedia.org/wiki/%EC%96%91%EC%9E%90%EA%B4%91%ED%95%99) 전공으로 박사학위를 취득하였다.

@@ -61,7 +61,7 @@
 
 #### Protection Tools (C#/C++)
 - [x] 디컴파일 방지 native wrapping tool  [`CppWrap`](https://github.com/free302/CppWrap) (C++)
-- [x] 복사 방지 툴 [`UniverseLicensel`](https://github.com/free302/UniverseLicense)
+- [x] 복사 방지 툴 [`UniverseLicense`](https://github.com/free302/UniverseLicense)
 
 #### 광특성 측정시스템 운용 관련 앱 및 웹서버
 - [x] 데이터 분석/관리 Web Application [`WdmServer`](https://github.com/drbae/WdmServer) (ASP.NET Core)

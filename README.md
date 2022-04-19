@@ -1,4 +1,6 @@
 ## 👋 Hi, I’m @free302.
+- [x] 이 문서의 주소는 [여기(GitHub)](https://github.com/free302)입니다.
+
 - [x] 2008~2020까지 광통신 소자 제조 기업에서 연구원으로 근무하였다.
 2012년 물리학과 [`QuantumOptics`](https://ko.wikipedia.org/wiki/%EC%96%91%EC%9E%90%EA%B4%91%ED%95%99) 전공으로 박사학위를 취득하였다.
 근무한 회사는 광통신 시스템에 쓰이는 소형 광학소자인 [`WDM칩`](https://ko.wikipedia.org/wiki/%ED%8C%8C%EC%9E%A5_%EB%B6%84%ED%95%A0_%EB%8B%A4%EC%A4%91)과 모듈을 개발 생산하는 회사이다. 
